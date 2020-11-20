@@ -1,0 +1,21 @@
+.new::after{
+    content: "Новый текст";
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+.old::before{
+    content: "Старый текст";
+    color: rgb(30, 255, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul{
+    list-style-type: none;
+
+}
+li::before{
+    content: '\2666';
+}
+p::first-letter{
+    font-size: 100px;
+}
