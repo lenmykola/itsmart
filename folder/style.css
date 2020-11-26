@@ -1,21 +1,29 @@
-.new::after{
-    content: "Новый текст";
-    color: blueviolet;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-
+.xyx{
+    text-align: center;
+    color: rgb(247, 247, 247);
+    font-size: 50px;
 }
-.old::before{
-    content: "Старый текст";
-    color: rgb(30, 255, 0);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+body{
+    background-color: rgb(105, 152, 252);
 }
 ul{
-    list-style-type: none;
-
+    list-style: none;
 }
-li::before{
-    content: '\2666';
+.apple{
+    background-color: white;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
 }
-p::first-letter{
-    font-size: 100px;
+.ludi{
+    background-color: white;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+}
+.veshi{
+    background-color: white;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
 }
