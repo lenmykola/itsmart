@@ -1,0 +1,29 @@
+.xyx{
+    text-align: center;
+    color: rgb(247, 247, 247);
+    font-size: 50px;
+}
+body{
+    background-color: rgb(105, 152, 252);
+}
+ul{
+    list-style: none;
+}
+.apple{
+    background-color: white;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+}
+.ludi{
+    background-color: white;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+}
+.veshi{
+    background-color: white;
+    font-size: 25px;
+    align-content: center;
+    text-align: center;
+}
